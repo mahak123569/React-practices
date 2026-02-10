@@ -1,0 +1,10 @@
+/* p{
+  font-size: 7rem;
+width: 100%;
+}  */
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
