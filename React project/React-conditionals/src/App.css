@@ -1,0 +1,42 @@
+/* App.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .card {
+    background-color: #fff;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: #333;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 7px;
+ background-color: wheat; 
+    color: white;
+    font-weight: normal;
+    
+  }
+  
+  button:hover {
+    background-color: black;
+  }
+  
