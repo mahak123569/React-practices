@@ -9,7 +9,7 @@ function App() {
   return (
     
       <div className="container">
-       {/* <h1>Hello Mahek! My React file</h1> */}
+       {/* <h1>Hello Mahek! My React </h1> */}
        <UserCard name="sweet-Dish" desc="desc1" image={Food} style={{"border-radius":"10px"}}/>
        <UserCard name="under-water" desc="desc2"  image={Daniel} style={{"border-radius":"10px"}}/>
        <UserCard name="nature-water" desc="desc3"  image={Craig} style={{"border-radius":"10px"}}/>
